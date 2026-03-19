@@ -1,5 +1,5 @@
 --[[
-Put in ReplicatedStorage
+Insert a Module Script in ReplicatedStorage named "Loader"
 ]]
 
 local loader = {}
